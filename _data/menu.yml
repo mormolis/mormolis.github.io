@@ -19,8 +19,8 @@ entries:
       - title: photographs
         url: https://github.com/mormolis
 
-  - title: CV
-    url: about.html
+  - title: curriculum vitae
+    url: cv.html
  
   - title: rss
     url: feed.xml
