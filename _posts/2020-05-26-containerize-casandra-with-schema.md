@@ -15,7 +15,7 @@ We want to create a structure like the following:
 
 Under schema_migration we place another directory which will hold our migration scripts. The naming should be like the one in the screenshot. Starting with V1__ (mind the double underscore) and a description of the script it contains.
 
-```cql
+```sql
 CREATE TABLE IF NOT exists our_table(
         id text PRIMARY KEY,
         name text,
@@ -73,7 +73,7 @@ Now we are ready to create the Cassandra container with our stuff :D
 
 Now, we are in the local_cassandra directory of the above screenshot. In the dbScripts directory, we just add a simple cql command that will be used to create the keyspace once Cassandra is up and running.
 
-```cql
+```sql
 CREATE KEYSPACE IF NOT EXISTS 
 our_keyspace 
 WITH replication = {'class':'SimpleStrategy','replication_factor':'1'};
@@ -174,11 +174,11 @@ java -jar \
 ../schema_migration/cassandra-migration-0.17-jar-with-dependencies.jar migrate
 ```
 
-exc1: clean up the already existing Cassandra containers with the name localCassandra so we won't have any conflicts.
+**exc1:** clean up the already existing Cassandra containers with the name localCassandra so we won't have any conflicts.
 
-exc12 are running the container.
+**exc2** are running the container.
 
-exc3 are waiting for the flag file to be created. This will determine when the container is ready for the next step. 
+**exc3** are waiting for the flag file to be created. This will determine when the container is ready for the next step. 
 
 Finally the Cassandra migration utility (jar) after we source the variables once again.
 
