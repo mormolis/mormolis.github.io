@@ -2,7 +2,7 @@
 layout: page
 title: Georgios Lamprakis - Agile Software Developer
 ---
-*Updated on 19-03-22**
+*Updated on 19-03-22*
 
 ### Profile
 Passionate about clean code that is easily understood and extended by humans. I love being a member of teams who are keen on XP and compassionate coding. Always on learning mode, with studies in Computer Science and diverse work background, I am keen on taking a pragmatic approach combining the craft and the science side of software development, facilitating Extreme Programing techniques such as TDD and Pair Programming.
