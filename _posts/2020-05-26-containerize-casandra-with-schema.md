@@ -1,4 +1,9 @@
-he problem: We have an application that uses Cassandra as the preferred persistence technology and we would like to have a one-command container running for local development and testing.
+---
+layout: post
+category: programming
+---
+
+The problem: We have an application that uses Cassandra as the preferred persistence technology and we would like to have a one-command container running for local development and testing.
 
 In other words, we need the Cassandra container to have the Keyspace and the up-to-date schema following our migration scripts by executing something like  `./run_containerised_cassandra_locally.sh`
 Breaking this problem into two sub-problems we identify that in order to do that we need a DB migration tool. In RDBMS we have tools like Flyway or Liquibase. For Cassandra, with a little bit of digging, com.hhandoko:cassandra-migration can be found. Which we can be incorporated into our codebase as a dependency or can exist as a standalone artefact (jar file) to be run on demand by a script. The latest is what we are going to use here.
