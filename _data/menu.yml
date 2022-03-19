@@ -2,7 +2,15 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about
+  - title: blogposts
+    post_list:
+      limit: 5
+      show_more: true
+      show_more_text: See archive...
+      show_more_url: archive.html
+         
+           
+  - title: other stuff i do
     entries:
       - title: code
         url: https://github.com/mormolis
@@ -11,13 +19,9 @@ entries:
       - title: photographs
         url: https://github.com/mormolis
 
-  - title: rands about stuff
-    post_list:
-      limit: 5
-      show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
-
+  - title: CV
+    url: about.html
+ 
   - title: rss
     url: feed.xml
  
