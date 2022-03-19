@@ -40,7 +40,7 @@ the above is perfectly valid, but the bellow results in a compilation error:
 ```java
 byte x = 5;
 byte y = 3;
-y=y+x; // doe NOT compile
+y=y+x; // does NOT compile
 ```
 
 Yes indeed!
