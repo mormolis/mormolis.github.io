@@ -4,7 +4,7 @@ category: learning
 ---
 
 
-I like learning new things. Almost every day I will read a few pages of a technical book, watch a video tutorial or even explore by doing myself. There is a problem though. Even though I understand things and I can fool myself easily that every time I read something I have digested the information and I will be able to recall it should I need to. Unfortunately, that's a lie.
+I like learning new things. Almost every day I will read a few pages of a technical book, watch a video tutorial or even explore by doing myself. There is a problem though. Even though I understand things and I can fool myself easily that every time I read something I have digested the information and I will be able to recall it should I need to, that's a lie.
 Ask me a week later and I might have forgotten the existence of the topic. Is not-on-demand studying a waste of time then? I would not say so. For me even if the piece of information is completely forgotten, the next time I will have to re-learn it, it will be much easier. Unfortunately, one can admit that this is definitely not the best use of time...
 
 I had accepted my faith. The enjoyment of studying stuff will compromise the side effects of poor memory. 
