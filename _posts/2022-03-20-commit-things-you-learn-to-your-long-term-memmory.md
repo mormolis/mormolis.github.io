@@ -31,7 +31,7 @@ In practice, you create flashcards. When you review them, you can rate how easy 
 
 Based on your selection, Anki will either display the flashcard again or reschedule it for tomorrow, the day after tomorrow, or after a couple of days. Now, if you have repeatedly rated the flashcard as good or easy the flashcard will take longer to re-appear on your deck. In this way, you can review hundreds of cards in less than half an hour. 
 
-As you could tell, the difference between a classical flashcard app and Anki is that Anki will show you cards with information that you will most likely forget, so a quick refresh will extend it in your memory. You will find out that a flashcard might appear again after months if you have rated it as easy multiple times.
+As you could tell, the difference between a classical flashcard app and Anki is that Anki will show you cards with information that you will most likely forget, so a quick refresh will extend it in your memory. You will find out that a flashcard might appear again after months if you have rated it easy multiple times.
 
 
 ## Things that worked for me:
