@@ -6,18 +6,19 @@ entries:
     post_list:
       limit: 5
       show_more: true
-      show_more_text: See archive...
+      show_more_text: more...
       show_more_url: archive.html
          
            
-  - title: other stuff i do
+  - title: other stuff i do for fun
     entries:
+      - title: music
+        url: https://soundcloud.com/mormolis
+      - title: photographs
+        url: https://souleyevision.blogspot.com
       - title: code
         url: https://github.com/mormolis
-      - title: music
-        url: https://github.com/mormolis
-      - title: photographs
-        url: https://github.com/mormolis
+
 
   - title: curriculum vitae
     url: cv.html
