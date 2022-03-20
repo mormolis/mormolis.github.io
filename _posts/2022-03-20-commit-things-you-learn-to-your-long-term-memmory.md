@@ -7,7 +7,7 @@ category: learning
 I like learning new things. Almost every day I will read a few pages of a technical book, watch a video tutorial or even explore by doing myself. There is a problem though. Even though I understand things and I can fool myself easily that every time I read something I have digested the information and I will be able to recall it should I need to, that's a lie.
 Ask me a week later and I might have forgotten the existence of the topic. Is not-on-demand studying a waste of time then? I would not say so. For me even if the piece of information is completely forgotten, the next time I will have to re-learn it, it will be much easier. Unfortunately, one can admit that this is definitely not the best use of time...
 
-I had accepted my faith. The enjoyment of studying stuff will compromise the side effects of poor memory. 
+I had accepted my fate. The enjoyment of studying stuff will compromise the side effects of poor memory. 
 
 Until I came across [this article by Michael Nielsen](http://augmentingcognition.com/ltm.html). He is talking about systems to improve long-term memory and he is giving his view on one of them. Nielsen, amongst others, is giving his views on ways one can use a piece of software called [Anki](https://apps.ankiweb.net/index.html). He is talking about personal experience, patterns and antipatterns and how making Anki part of his life had managed to enhance his long-term memory on information that is useful for his daily work and personal life.
 
