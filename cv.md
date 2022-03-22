@@ -12,7 +12,7 @@ title: Georgios Lamprakis - Agile Software Developer
 Passionate about clean code that is easily understood and extended by humans. I love being a member of teams who are keen on XP and compassionate coding. Always on learning mode, with studies in Computer Science and diverse work background, I am keen on taking a pragmatic approach combining the craft and the science side of software development, facilitating Extreme Programing techniques such as TDD and Pair Programming.
 
 ## I have been exposed and worked with the following
-Agile Practices, TDD, Pair Programming, Java 8 / 11, Java EE, Gradle, Spring Boot / Spring WebFlux, Project Reactor, PostgreSQL, Cassandra, CosmosDB, Kafka, SQLite, K8s, Docker, AWS, AZURE, Jenkins, Dagger2, Micronaut, Vert.x, SparkJava, GIT, GitHub, Splunk, JUnit5, Mockito, Spock, AsserJ 
+Agile Practices, TDD, BDD, Pair Programming, Object Oriented Design, Domain Driven Design, Java 8 / 11, Java EE, Gradle, Spring Boot / Spring WebFlux, Project Reactor, PostgreSQL, Cassandra, CosmosDB, Kafka, SQLite, K8s, Docker, AWS, AZURE, Jenkins, Dagger2, Micronaut, Vert.x, SparkJava, GIT, GitHub, Splunk, JUnit5, Mockito, Spock, AsserJ 
 
 ## Experience
 * **Sky (Sky Network Systems) / Agile Software Developer**  
