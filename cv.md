@@ -4,6 +4,10 @@ title: Georgios Lamprakis - Agile Software Developer
 ---
 *Updated on 19-03-22*
 
+
+[experience](#experience) | [education](#education) | [certifiactions](#certifications)
+
+
 ## Profile
 Passionate about clean code that is easily understood and extended by humans. I love being a member of teams who are keen on XP and compassionate coding. Always on learning mode, with studies in Computer Science and diverse work background, I am keen on taking a pragmatic approach combining the craft and the science side of software development, facilitating Extreme Programing techniques such as TDD and Pair Programming.
 
@@ -53,29 +57,25 @@ Agile Practices, TDD, Pair Programming, Java 8 / 11, Java EE, Gradle, Spring Boo
 > As part of an internship program, I was taking care of the maintenance of the company’s web presence, updating the content and expanding features for the Joomla platform
 
 ## Education
-**Makers Academy / Software Craftsmanship Bootcamp**  
- 
-*SEPTEMBER 2017 - DECEMBER 2017,  LONDON*
+* **Makers Academy / Software Craftsmanship Bootcamp**  
+   *SEPTEMBER 2017 - DECEMBER 2017,  LONDON*
 
 
-**University of Peloponnese / Computer Science and Technology**  
-
-*SEPTEMBER  2004 - SEPTEMBER 2009,  PELOPONNESE GREECE*
+* **University of Peloponnese / Computer Science and Technology**  
+  *SEPTEMBER  2004 - SEPTEMBER 2009,  PELOPONNESE GREECE*
 
 ## Certifications
-[**Oracle Certified Professional Java SE8 Programmer II**](https://www.youracclaim.com/badges/f1ae141e-38a1-45a4-90f5-fc8607ba28de)
+* [**Oracle Certified Professional Java SE8 Programmer II**](https://www.youracclaim.com/badges/f1ae141e-38a1-45a4-90f5-fc8607ba28de)
 
 *January 2021*
 
 
-[**Oracle Certified Associate Java SE8 Programmer I**](https://www.youracclaim.com/badges/d71af8ba-b315-48f4-89c2-35a4478dab09)
+* [**Oracle Certified Associate Java SE8 Programmer I**](https://www.youracclaim.com/badges/d71af8ba-b315-48f4-89c2-35a4478dab09)
+  *MARCH 2020*
 
-*March 2020*
 
-
-**Splunk 7.x Fundamentals Part I & II**
- 
-*October 2019* 
+* **Splunk 7.x Fundamentals Part I & II**
+  *OCTOBER 2019* 
 
 ### Hobbies
 * Playing the electric guitar/music composition  
