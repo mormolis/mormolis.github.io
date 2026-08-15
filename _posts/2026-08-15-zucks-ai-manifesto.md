@@ -49,7 +49,7 @@ The consequences stacked up. Apple pulled Onavo from the App Store in 2018 for b
 
 Sources: [TechCrunch on the unsealed documents](https://techcrunch.com/2024/03/26/facebook-secret-project-snooped-snapchat-user-traffic/) · [TechRadar on the wiretapping claims](https://www.techradar.com/computing/cyber-security/facebooks-onavo-vpn-used-to-wiretap-competitor-data-court-filings-reveal)
 
-**Why this one matters most.** There was a direct instruction from Zuckerberg. There was a deliberate engineering effort to defeat encryption. Internal objections were raised and overruled. And it was running while the manifesto was being written and published. \[More on this here\](https://www.youtube.com/watch?v=SOQynHuWPeI)
+**Why this one matters most.** There was a direct instruction from Zuckerberg. There was a deliberate engineering effort to defeat encryption. Internal objections were raised and overruled. And it was running while the manifesto was being written and published. [More on this here](https://www.youtube.com/watch?v=SOQynHuWPeI)
 
 ---
 
