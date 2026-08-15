@@ -3,7 +3,7 @@ layout: post
 category: ai
 ---
 
-# The bullshit in Zuckerberg’s Manifestos**
+# The bullshit in Zuckerberg’s Manifestos
 
 Zuckerberg came up with another manifesto\! This time about foundation models and how humanity can benefit from AI. The Future is for Everyone: The path to a positive AI future. But it’s not his first one. 
 
