@@ -1,4 +1,9 @@
-# **The bullshit in Zuckerberg’s Manifestos**
+---
+layout: post
+category: ai
+---
+
+# The bullshit in Zuckerberg’s Manifestos**
 
 Zuckerberg came up with another manifesto\! This time about foundation models and how humanity can benefit from AI. The Future is for Everyone: The path to a positive AI future. But it’s not his first one. 
 
@@ -6,7 +11,7 @@ This article is co-authored with Claude opus 5.0.
 
 The content is product of guided research and collaboration with it and it aims to expose why Zucky’s greediness should be criminalised. After having a look at his “social media manifesto” and a few relevant incidents we will take a look at the new one. 
 
-On 16 February 2017, Mark Zuckerberg published a roughly 5,800-word essay called "Building Global Community." It promised that Facebook would build "social infrastructure" for the world. It promised communities that keep people safe, inform them, and support civic engagement. It promised the company would fight misinformation and protect its users. Lol (or tol \- thinking of laughing, a term coined by the \[winekone\](https://www.youtube.com/watch?v=Meg\_ejAXe3g))
+On 16 February 2017, Mark Zuckerberg published a roughly 5,800-word essay called "Building Global Community." It promised that Facebook would build "social infrastructure" for the world. It promised communities that keep people safe, inform them, and support civic engagement. It promised the company would fight misinformation and protect its users. Lol (or tol \- thinking of laughing, a term coined by the [winekone](https://www.youtube.com/watch?v=Meg\_ejAXe3g))
 
 ---
 
